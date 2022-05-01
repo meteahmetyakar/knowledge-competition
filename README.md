@@ -5,4 +5,4 @@ The game was written using the Android Studio. Most of the things in the game ar
 
 [Play Game](https://meteahmetyakar.github.io/knocomy/).
 
-<img src="https://github.com/xBluu/knocomy/blob/master/gameGif.gif" width="760" height="360" />
+<img src="https://github.com/xBluu/knocomy/blob/master/gameplay.gif" width="360" height="760" />
