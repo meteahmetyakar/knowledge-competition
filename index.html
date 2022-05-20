@@ -1,26 +1,59 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
 <style>
     body {
         background-color: rgb(68 61 61);
-        background-image: url('play-android-form.png');
-        background-repeat: no-repeat;
-        background-position: left top;
+        margin: 0;
+        padding: 0;
+
+    }
+    div {
+        width: 460px;
+        height: 770px;
+        position: relative;
+        margin: auto;
+    }
+    img{
+        max-width: 100%;
+        height: 100%;
+    }
+
+    iframe {
+        width: 287px;
+        height: 620px;
+        position: absolute;
+        top: 10%;
+        left: 20%;
+    }
+
+    @media(max-width:560px) {
+        div {
+            max-width: 390px;
+            max-height: 100vh;
+
+        }
+
+        iframe {
+            padding: 0;
+           margin: auto;
+        }
+
     }
 </style>
 
 <body>
-
-
-
-
-    <iframe 
-            style="margin-top: 75px; margin-left: 80px; border-radius: 35px; box-shadow: 0 0px 3rem 0 rgb(68 61 61); "
-            width="287" height="620" frameborder="0" scrolling="no"
-
-            src="https://appetize.io/embed/21cteh3y8uc0g4bcnu1vbrv4fw?device=pixel4">
-    </iframe>
-
+    <div>
+        <img src="play-android-form.png" alt="">
+        <iframe src="https://appetize.io/embed/21cteh3y8uc0g4bcnu1vbrv4fw?device=pixel4"
+            frameborder="0" scrolling="no"></iframe>
+    </div>
 </body>
+
 </html>
