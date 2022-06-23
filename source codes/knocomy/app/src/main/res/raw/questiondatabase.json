@@ -1,0 +1,275 @@
+{
+  "questiondatabase": [
+    {
+      "id": "1",
+      "Question": "Which one of the following refers to transferring a process to the temporary disk and storing it again?",
+      "Subject": "OPERATİNG SYSTEM",
+      "AnswerTrue": "Swapping",
+      "Answer1": "Exchange",
+      "Answer2": "Migration",
+      "Answer3": "Affinity"
+    },
+    {
+      "id": "2",
+      "Question": "Which of the following refers to the CPU passing a process to another process?",
+      "Subject": "OPERATİNG SYSTEM",
+      "AnswerTrue": "Context Switch",
+      "Answer1": "Proccess Switch",
+      "Answer2": "Content Switch",
+      "Answer3": "Program Switch"
+    },
+    {
+      "id": "3",
+      "Question": "Which of the following is not one of the trees traversal algorithms?",
+      "Subject": "OPERATİNG SYSTEM",
+      "AnswerTrue": "Order",
+      "Answer1": "Inorder",
+      "Answer2": "Preorder",
+      "Answer3": "Postorder"
+    },
+    {
+      "id": "4",
+      "Question": "Which of the following is used to rank data?",
+      "Subject": "OPERATİNG SYSTEM",
+      "AnswerTrue": "Heap",
+      "Answer1": "Complete tree",
+      "Answer2": "Incomplete tree",
+      "Answer3": "Binary tree"
+    },
+    {
+      "id": "5",
+      "Question": "Which of the following is not used for CPU scheduling algorithm comparison?",
+      "Subject": "OPERATİNG SYSTEM",
+      "AnswerTrue": "Running time",
+      "Answer1": "Throughput",
+      "Answer2": "response time",
+      "Answer3": "Turnaround time"
+    },
+    {
+      "id": "6",
+      "Question": "The technique in which source program are replaced by database management generated code is classified as ?",
+      "Subject": "DATABASE",
+      "AnswerTrue": "Embedded SQL",
+      "Answer1": "Referential SQL",
+      "Answer2": "İnterpreted SQL",
+      "Answer3": "Embossed SQL"
+    },
+    {
+      "id": "7",
+      "Question": "In the modeling of union type classed, the partial category of süper class is represented by?",
+      "Subject": "DATABASE",
+      "AnswerTrue": "Single Line",
+      "Answer1": "İnverted Comma",
+      "Answer2": "Triple Line",
+      "Answer3": "Double Line"
+    },
+    {
+      "id": "8",
+      "Question": "Which of the following products was an early implementation of the relational model developed by E.F. Codd of IBM?",
+      "Subject": "DATABASE",
+      "AnswerTrue": "DB2",
+      "Answer1": "IDMS",
+      "Answer2": "dBase-II",
+      "Answer3": "R:base"
+    },
+    {
+      "id": "9",
+      "Question": "The DBMS acts as an interface between what two components of an enterprise-class database system?",
+      "Subject": "DATABASE",
+      "AnswerTrue": "Database application and the database",
+      "Answer1": "Data and the database",
+      "Answer2": "The user and the database application",
+      "Answer3": "Database application and SQL"
+    },
+    {
+      "id": "10",
+      "Question": "The following are components of a database except ________ .",
+      "Subject": "DATABASE",
+      "AnswerTrue": "reports",
+      "Answer1": "user data",
+      "Answer2": "metadata",
+      "Answer3": "indexes"
+    },
+    {
+      "id": "11",
+      "Question": "Which of the following is true for UDP?",
+      "Subject": "COMPUTER NETWORKS",
+      "AnswerTrue": "Lost does not resend.",
+      "Answer1": "Using timeout.",
+      "Answer2": "Sort in the receiver.",
+      "Answer3": "Awaits feedback."
+    },
+    {
+      "id": "12",
+      "Question": "Which of the following is true for an explicit call to a destructor function?",
+      "Subject": "COMPUTER NETWORKS",
+      "AnswerTrue": "Destructor must be publicly defined.",
+      "Answer1": "Destructor protected must be defined.",
+      "Answer2": "Destructor must be defined as private.",
+      "Answer3": "Destructor virtual must be defined."
+    },
+    {
+      "id": "13",
+      "Question": "Which of the following protocols is used to ensure the consistency of the data in caches (cache coherence) in multiprocessor systems?",
+      "Subject": "COMPUTER NETWORKS",
+      "AnswerTrue": "MESI",
+      "Answer1": "TCP ",
+      "Answer2": "IP",
+      "Answer3": "SMTP"
+    },
+    {
+      "id": "14",
+      "Question": "Several computers linked to a server to share programs and storage space",
+      "Subject": "COMPUTER NETWORKS",
+      "AnswerTrue": "Network",
+      "Answer1": "Library ",
+      "Answer2": "Grouping",
+      "Answer3": "Integrated system"
+    },
+    {
+      "id": "15",
+      "Question": "A term related sending data to a satellite is?",
+
+      "Subject": "COMPUTER NETWORKS",
+      "AnswerTrue": "Uplink",
+      "Answer1": "Downlink",
+      "Answer2": "Modulate",
+      "Answer3": "Demodulate"
+    },
+    {
+      "id": "16",
+      "Question": "Which of the following is not a no-comparison ranking algorithm?",
+      "Subject": "ALGORITHM",
+      "AnswerTrue": "Shell sort ",
+      "Answer1": "Radix sort",
+      "Answer2": "Bucket sort",
+      "Answer3": "Count sort"
+    },
+    {
+      "id": "17",
+      "Question": "In mathematical means, poblems can be viewed as ?",
+      "Subject": "ALGORITHM",
+      "AnswerTrue": "Functions",
+      "Answer1": "Operating",
+      "Answer2": "Mechanism",
+      "Answer3": "Design pattern"
+    },
+    {
+      "id": "18",
+      "Question": "Which of the algorithms below can sort the data by placing the data on a tree",
+      "Subject": "ALGORITHM",
+      "AnswerTrue": "Heap sort",
+      "Answer1": "Quick sort",
+      "Answer2": "Shell sort ",
+      "Answer3": "Bucket sort"
+    },
+    {
+      "id": "19",
+      "Question": "A function or mapping of inputs to outputs is called",
+      "Subject": "ALGORITHM",
+      "AnswerTrue": "Problem",
+      "Answer1": "Process",
+      "Answer2": "Program",
+      "Answer3": "Algoritm"
+    },
+    {
+      "id": "20",
+      "Question": "An object that can be used in accessing another object is known to be ?",
+      "Subject": "ALGORITHM",
+      "AnswerTrue": "Pointer",
+      "Answer1": "Arrays",
+      "Answer2": "structure",
+      "Answer3": "Reference"
+    },
+    {
+      "id": "21",
+      "Question": "Which property of object oriented programming languages are used to assign additional functions to a predefined operator?",
+      "Subject":"DATA STRUCTURES",
+      "AnswerTrue": "Operator overloading",
+      "Answer1": "Function overloading",
+      "Answer2": "Operator overriding",
+      "Answer3": "Function overriding"
+    },
+    {
+      "id": "22",
+      "Question": "Which feature of object oriented programming helps code reuse?",
+      "Subject":"DATA STRUCTURES",
+      "AnswerTrue": "Class",
+      "Answer1": "Structure",
+      "Answer2": "Inheritance",
+      "Answer3": "Encapsulation"
+    },
+    {
+      "id": "23",
+      "Question": "Which of the following is more correct for objects?",
+      "Subject":"DATA STRUCTURES",
+      "AnswerTrue": "They are used to access public members of a class.",
+      "Answer1": "They are used to access all members of a class.",
+      "Answer2": "They are used to access private members of a class.",
+      "Answer3": "Used to access protected members of a class."
+    },
+    {
+      "id": "24",
+      "Question": "Which of the following data structure is more appropriate to represent a heap?",
+      "Subject":"DATA STRUCTURES",
+      "AnswerTrue": "Linear Array",
+      "Answer1": "Two-dimensional array",
+      "Answer2": "Doubly linked list",
+      "Answer3": "Linked list"
+    },
+    {
+      "id": "25",
+      "Question": "Minimum number of fields in each node of a doubly linked list is ……. ?",
+      "Subject":"DATA STRUCTURES",
+      "AnswerTrue": "3",
+      "Answer1": "2",
+      "Answer2": "4",
+      "Answer3": "None of the others"
+    },
+    {
+      "id": "26",
+      "Question": "Compilers, Editors software come under which type of software?",
+      "Subject": "SOFTWARE ENGINEERING",
+      "AnswerTrue": "System software",
+      "Answer1": "Application Software",
+      "Answer2": "Scientific Software",
+      "Answer3": "None of the others"
+    },
+    {
+      "id": "27",
+      "Question": "RAD software process model stands for … ?",
+      "Subject": "SOFTWARE ENGINEERING",
+      "AnswerTrue": "Rapid Application Development",
+      "Answer1": "Relative Application Development",
+      "Answer2": "Rapid Application Disayn",
+      "Answer3": "Recent Application Development"
+    },
+    {
+      "id": "28",
+      "Question": "COCOMO stands for …. ?",
+      "Subject": "SOFTWARE ENGINEERING",
+      "AnswerTrue": " Constructive Cost Model",
+      "Answer1": " Composition Cost Model",
+      "Answer2": " Consumed Cost Model ",
+      "Answer3": " Common Control Model"
+    },
+    {
+      "id": "29",
+      "Question": " What is the simplest model of software development paradign?",
+      "Subject": "SOFTWARE ENGINEERING",
+      "AnswerTrue": " Waterfall model",
+      "Answer1": " Spiral model",
+      "Answer2": " Big Bang model",
+      "Answer3": " V-model"
+    },
+    {
+      "id": "30",
+      "Question": " Which is not a step of requirement engineering?",
+      "Subject": "SOFTWARE ENGINEERING",
+      "AnswerTrue": " Requirement design",
+      "Answer1": "Requirement elicitation",
+      "Answer2": "Requirement analysis",
+      "Answer3": " Requirement documentation"
+    }
+  ]
+}
