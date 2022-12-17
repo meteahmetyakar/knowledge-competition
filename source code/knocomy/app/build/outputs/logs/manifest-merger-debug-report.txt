@@ -1,0 +1,218 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:2:1-43:12
+MERGED from [androidx.navigation:navigation-ui:2.3.1] C:\Users\Mete\.gradle\caches\transforms-3\929d3979e416ecc5588c75493b5d8693\transformed\navigation-ui-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Mete\.gradle\caches\transforms-3\273d2c191a210a0ea3ee011603a5af45\transformed\material-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Mete\.gradle\caches\transforms-3\4a79dd0cd2da24927a671af35ef95423\transformed\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Mete\.gradle\caches\transforms-3\f39fc82983ddacf7f8a9d0255c590db4\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.1] C:\Users\Mete\.gradle\caches\transforms-3\0495d1d3abd1c27a90d6557cbd839b8f\transformed\navigation-fragment-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Mete\.gradle\caches\transforms-3\ba5c646dbbc9b110b0bbc2352c403cb8\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Mete\.gradle\caches\transforms-3\59d6980a3b329695324ace9dc72d76c4\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Mete\.gradle\caches\transforms-3\5c5564f3c21f160b8593b6357f42704c\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Mete\.gradle\caches\transforms-3\c2365997c5712c09b8e040cdba48ec6f\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Mete\.gradle\caches\transforms-3\d7bfb4d57ba25c58c1ed4e8afb52dc48\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Mete\.gradle\caches\transforms-3\131fc640a9fa001c570148d810d62306\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Mete\.gradle\caches\transforms-3\f2cb70bdfca79293a5d7d76477e7c812\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\Mete\.gradle\caches\transforms-3\cc6925a3d2dde20bfdaf3acbb4d73d00\transformed\fragment-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Mete\.gradle\caches\transforms-3\f9f13cb9407dc9161caf4cf532aae1a0\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\Mete\.gradle\caches\transforms-3\3419646294ae57eaaa86275e0fb29547\transformed\transition-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Mete\.gradle\caches\transforms-3\b799179d0f364501512efedbe756bc89\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mete\.gradle\caches\transforms-3\4dc2d7de2e36c1331823605ddccab851\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Mete\.gradle\caches\transforms-3\05004be9d5f40db3a3f43ef3ca30f636\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mete\.gradle\caches\transforms-3\e68bd84e89a1199c0e0bb7915ca54e8d\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.1] C:\Users\Mete\.gradle\caches\transforms-3\24b798787d5fd7d92a2290b7da0ea841\transformed\navigation-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Mete\.gradle\caches\transforms-3\faabb77f15db505153e251190b7b012b\transformed\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.1] C:\Users\Mete\.gradle\caches\transforms-3\d1e9fe500c7ad9abe3aa02fbec3cedfb\transformed\navigation-common-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\Mete\.gradle\caches\transforms-3\0ffe1f38d4d5174a7c7d44b3c0291425\transformed\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Mete\.gradle\caches\transforms-3\4182500eb1686208441ca3f38fdb662b\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Mete\.gradle\caches\transforms-3\5dd631eea120a2b05792b70796a8d552\transformed\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Mete\.gradle\caches\transforms-3\d74e2fb1538e59010338858e34d28ccd\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Mete\.gradle\caches\transforms-3\2445322912db529b72d73c0bfcdbf0db\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Mete\.gradle\caches\transforms-3\a548febb2f5bd9e6ae5ef0896c1495af\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Mete\.gradle\caches\transforms-3\9e495b0e9f7cb70c1ccd9a8c2fa3dac5\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Mete\.gradle\caches\transforms-3\cd9cd29673892a0e2248638b2c2d4621\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Mete\.gradle\caches\transforms-3\3d87c23d463ba13a040973e31601b6ab\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Mete\.gradle\caches\transforms-3\aa032f33b1d34c08ed370a72f750a373\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Mete\.gradle\caches\transforms-3\f24394015edec8364633047ef63f25f7\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml
+		ADDED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml
+		ADDED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:5:5-41:19
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Mete\.gradle\caches\transforms-3\273d2c191a210a0ea3ee011603a5af45\transformed\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Mete\.gradle\caches\transforms-3\273d2c191a210a0ea3ee011603a5af45\transformed\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Mete\.gradle\caches\transforms-3\4a79dd0cd2da24927a671af35ef95423\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Mete\.gradle\caches\transforms-3\4a79dd0cd2da24927a671af35ef95423\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.1] C:\Users\Mete\.gradle\caches\transforms-3\0ffe1f38d4d5174a7c7d44b3c0291425\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\Mete\.gradle\caches\transforms-3\0ffe1f38d4d5174a7c7d44b3c0291425\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Mete\.gradle\caches\transforms-3\4182500eb1686208441ca3f38fdb662b\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Mete\.gradle\caches\transforms-3\4182500eb1686208441ca3f38fdb662b\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\Mete\.gradle\caches\transforms-3\0ffe1f38d4d5174a7c7d44b3c0291425\transformed\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:11:9-45
+activity#com.example.knocomy.FinishScene
+ADDED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:12:9-14:66
+	android:theme
+		ADDED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:14:13-63
+	android:name
+		ADDED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:13:13-40
+activity#com.example.knocomy.Highscores_Table
+ADDED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:15:9-16:65
+	android:theme
+		ADDED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:16:13-63
+	android:name
+		ADDED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:15:19-51
+activity#com.example.knocomy.LoginMenu
+ADDED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:17:9-18:65
+	android:theme
+		ADDED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:18:13-63
+	android:name
+		ADDED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:17:19-44
+activity#com.example.knocomy.Question_Page
+ADDED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:19:9-21:66
+	android:theme
+		ADDED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:21:13-63
+	android:name
+		ADDED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:20:13-42
+activity#com.example.knocomy.Konu_Bolumu
+ADDED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:22:9-24:66
+	android:theme
+		ADDED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:24:13-63
+	android:name
+		ADDED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:23:13-40
+activity#com.example.knocomy.register
+ADDED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:25:9-27:66
+	android:theme
+		ADDED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:27:13-63
+	android:name
+		ADDED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:26:13-37
+activity#com.example.knocomy.MainActivity
+ADDED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:28:9-36:20
+	android:theme
+		ADDED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:30:13-63
+	android:name
+		ADDED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:29:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:34:27-74
+meta-data#preloaded_fonts
+ADDED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:38:9-40:57
+	android:resource
+		ADDED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:40:13-54
+	android:name
+		ADDED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:39:13-43
+uses-sdk
+INJECTED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml
+INJECTED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-ui:2.3.1] C:\Users\Mete\.gradle\caches\transforms-3\929d3979e416ecc5588c75493b5d8693\transformed\navigation-ui-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.1] C:\Users\Mete\.gradle\caches\transforms-3\929d3979e416ecc5588c75493b5d8693\transformed\navigation-ui-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Mete\.gradle\caches\transforms-3\273d2c191a210a0ea3ee011603a5af45\transformed\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Mete\.gradle\caches\transforms-3\273d2c191a210a0ea3ee011603a5af45\transformed\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Mete\.gradle\caches\transforms-3\4a79dd0cd2da24927a671af35ef95423\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Mete\.gradle\caches\transforms-3\4a79dd0cd2da24927a671af35ef95423\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Mete\.gradle\caches\transforms-3\f39fc82983ddacf7f8a9d0255c590db4\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Mete\.gradle\caches\transforms-3\f39fc82983ddacf7f8a9d0255c590db4\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.1] C:\Users\Mete\.gradle\caches\transforms-3\0495d1d3abd1c27a90d6557cbd839b8f\transformed\navigation-fragment-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.1] C:\Users\Mete\.gradle\caches\transforms-3\0495d1d3abd1c27a90d6557cbd839b8f\transformed\navigation-fragment-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Mete\.gradle\caches\transforms-3\ba5c646dbbc9b110b0bbc2352c403cb8\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Mete\.gradle\caches\transforms-3\ba5c646dbbc9b110b0bbc2352c403cb8\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Mete\.gradle\caches\transforms-3\59d6980a3b329695324ace9dc72d76c4\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Mete\.gradle\caches\transforms-3\59d6980a3b329695324ace9dc72d76c4\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Mete\.gradle\caches\transforms-3\5c5564f3c21f160b8593b6357f42704c\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Mete\.gradle\caches\transforms-3\5c5564f3c21f160b8593b6357f42704c\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Mete\.gradle\caches\transforms-3\c2365997c5712c09b8e040cdba48ec6f\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Mete\.gradle\caches\transforms-3\c2365997c5712c09b8e040cdba48ec6f\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Mete\.gradle\caches\transforms-3\d7bfb4d57ba25c58c1ed4e8afb52dc48\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Mete\.gradle\caches\transforms-3\d7bfb4d57ba25c58c1ed4e8afb52dc48\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Mete\.gradle\caches\transforms-3\131fc640a9fa001c570148d810d62306\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Mete\.gradle\caches\transforms-3\131fc640a9fa001c570148d810d62306\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Mete\.gradle\caches\transforms-3\f2cb70bdfca79293a5d7d76477e7c812\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Mete\.gradle\caches\transforms-3\f2cb70bdfca79293a5d7d76477e7c812\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\Mete\.gradle\caches\transforms-3\cc6925a3d2dde20bfdaf3acbb4d73d00\transformed\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\Mete\.gradle\caches\transforms-3\cc6925a3d2dde20bfdaf3acbb4d73d00\transformed\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Mete\.gradle\caches\transforms-3\f9f13cb9407dc9161caf4cf532aae1a0\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Mete\.gradle\caches\transforms-3\f9f13cb9407dc9161caf4cf532aae1a0\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\Mete\.gradle\caches\transforms-3\3419646294ae57eaaa86275e0fb29547\transformed\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\Mete\.gradle\caches\transforms-3\3419646294ae57eaaa86275e0fb29547\transformed\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Mete\.gradle\caches\transforms-3\b799179d0f364501512efedbe756bc89\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Mete\.gradle\caches\transforms-3\b799179d0f364501512efedbe756bc89\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mete\.gradle\caches\transforms-3\4dc2d7de2e36c1331823605ddccab851\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mete\.gradle\caches\transforms-3\4dc2d7de2e36c1331823605ddccab851\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Mete\.gradle\caches\transforms-3\05004be9d5f40db3a3f43ef3ca30f636\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Mete\.gradle\caches\transforms-3\05004be9d5f40db3a3f43ef3ca30f636\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mete\.gradle\caches\transforms-3\e68bd84e89a1199c0e0bb7915ca54e8d\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mete\.gradle\caches\transforms-3\e68bd84e89a1199c0e0bb7915ca54e8d\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.3.1] C:\Users\Mete\.gradle\caches\transforms-3\24b798787d5fd7d92a2290b7da0ea841\transformed\navigation-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.1] C:\Users\Mete\.gradle\caches\transforms-3\24b798787d5fd7d92a2290b7da0ea841\transformed\navigation-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Mete\.gradle\caches\transforms-3\faabb77f15db505153e251190b7b012b\transformed\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Mete\.gradle\caches\transforms-3\faabb77f15db505153e251190b7b012b\transformed\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.1] C:\Users\Mete\.gradle\caches\transforms-3\d1e9fe500c7ad9abe3aa02fbec3cedfb\transformed\navigation-common-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.1] C:\Users\Mete\.gradle\caches\transforms-3\d1e9fe500c7ad9abe3aa02fbec3cedfb\transformed\navigation-common-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\Mete\.gradle\caches\transforms-3\0ffe1f38d4d5174a7c7d44b3c0291425\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\Mete\.gradle\caches\transforms-3\0ffe1f38d4d5174a7c7d44b3c0291425\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Mete\.gradle\caches\transforms-3\4182500eb1686208441ca3f38fdb662b\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Mete\.gradle\caches\transforms-3\4182500eb1686208441ca3f38fdb662b\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Mete\.gradle\caches\transforms-3\5dd631eea120a2b05792b70796a8d552\transformed\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Mete\.gradle\caches\transforms-3\5dd631eea120a2b05792b70796a8d552\transformed\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Mete\.gradle\caches\transforms-3\d74e2fb1538e59010338858e34d28ccd\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Mete\.gradle\caches\transforms-3\d74e2fb1538e59010338858e34d28ccd\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Mete\.gradle\caches\transforms-3\2445322912db529b72d73c0bfcdbf0db\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Mete\.gradle\caches\transforms-3\2445322912db529b72d73c0bfcdbf0db\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Mete\.gradle\caches\transforms-3\a548febb2f5bd9e6ae5ef0896c1495af\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Mete\.gradle\caches\transforms-3\a548febb2f5bd9e6ae5ef0896c1495af\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Mete\.gradle\caches\transforms-3\9e495b0e9f7cb70c1ccd9a8c2fa3dac5\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Mete\.gradle\caches\transforms-3\9e495b0e9f7cb70c1ccd9a8c2fa3dac5\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Mete\.gradle\caches\transforms-3\cd9cd29673892a0e2248638b2c2d4621\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Mete\.gradle\caches\transforms-3\cd9cd29673892a0e2248638b2c2d4621\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Mete\.gradle\caches\transforms-3\3d87c23d463ba13a040973e31601b6ab\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Mete\.gradle\caches\transforms-3\3d87c23d463ba13a040973e31601b6ab\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Mete\.gradle\caches\transforms-3\aa032f33b1d34c08ed370a72f750a373\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Mete\.gradle\caches\transforms-3\aa032f33b1d34c08ed370a72f750a373\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Mete\.gradle\caches\transforms-3\f24394015edec8364633047ef63f25f7\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Mete\.gradle\caches\transforms-3\f24394015edec8364633047ef63f25f7\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml
+INJECTED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml
+		ADDED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml
+		ADDED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml
