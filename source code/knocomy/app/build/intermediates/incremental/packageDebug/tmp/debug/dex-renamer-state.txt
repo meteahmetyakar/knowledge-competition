@@ -1,4 +1,4 @@
-#Thu Jun 23 02:44:56 TRT 2022
-base.0=D\:\\Mete\\Software\\projects\\my projects\\knocomy\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-renamed.0=classes.dex
+#Wed Jan 03 22:23:15 TRT 2024
+base.0=E\:\\Mete\\Software\\projects\\my projects\\knocomy\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
+renamed.0=classes.dex

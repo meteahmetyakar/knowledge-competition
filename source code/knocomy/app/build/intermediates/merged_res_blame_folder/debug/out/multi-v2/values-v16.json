@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Mete\\Software\\projects\\my projects\\knocomy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "outputFile": "E:\\Mete\\Software\\projects\\my projects\\knocomy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Mete\\.gradle\\caches\\transforms-3\\f39fc82983ddacf7f8a9d0255c590db4\\transformed\\appcompat-1.2.0\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\amete\\.gradle\\caches\\transforms-3\\f39fc82983ddacf7f8a9d0255c590db4\\transformed\\appcompat-1.2.0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Mete\\.gradle\\caches\\transforms-3\\0ffe1f38d4d5174a7c7d44b3c0291425\\transformed\\core-1.3.1\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\amete\\.gradle\\caches\\transforms-3\\0ffe1f38d4d5174a7c7d44b3c0291425\\transformed\\core-1.3.1\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Mete\\Software\\projects\\my projects\\knocomy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-small-v4\\values-small-v4.xml",
+            "outputFile": "E:\\Mete\\Software\\projects\\my projects\\knocomy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-small-v4\\values-small-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Mete\\.gradle\\caches\\transforms-3\\273d2c191a210a0ea3ee011603a5af45\\transformed\\material-1.2.1\\res\\values-small-v4\\values-small-v4.xml",
+                    "source": "C:\\Users\\amete\\.gradle\\caches\\transforms-3\\273d2c191a210a0ea3ee011603a5af45\\transformed\\material-1.2.1\\res\\values-small-v4\\values-small-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

@@ -6,88 +6,88 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="16"
-8-->D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml
+8-->E:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="30" />
-9-->D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml
+9-->E:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:5:5-41:19
+11-->E:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:5:5-41:19
 12        android:allowBackup="true"
-12-->D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:6:9-35
+12-->E:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-13-->[androidx.core:core:1.3.1] C:\Users\Mete\.gradle\caches\transforms-3\0ffe1f38d4d5174a7c7d44b3c0291425\transformed\core-1.3.1\AndroidManifest.xml:24:18-86
+13-->[androidx.core:core:1.3.1] C:\Users\amete\.gradle\caches\transforms-3\0ffe1f38d4d5174a7c7d44b3c0291425\transformed\core-1.3.1\AndroidManifest.xml:24:18-86
 14        android:debuggable="true"
 15        android:icon="@mipmap/ic_launcher"
-15-->D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:7:9-43
+15-->E:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:7:9-43
 16        android:label="@string/app_name"
-16-->D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:8:9-41
+16-->E:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:8:9-41
 17        android:roundIcon="@mipmap/ic_launcher_round"
-17-->D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:9:9-54
+17-->E:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:9:9-54
 18        android:supportsRtl="true"
-18-->D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:10:9-35
+18-->E:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:10:9-35
 19        android:testOnly="true"
 20        android:theme="@style/Theme.knocomy" >
-20-->D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:11:9-45
+20-->E:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:11:9-45
 21        <activity
-21-->D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:12:9-14:66
+21-->E:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:12:9-14:66
 22            android:name="com.example.knocomy.FinishScene"
-22-->D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:13:13-40
+22-->E:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:13:13-40
 23            android:theme="@style/Theme.AppCompat.NoActionBar" />
-23-->D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:14:13-63
+23-->E:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:14:13-63
 24        <activity
-24-->D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:15:9-16:65
+24-->E:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:15:9-16:65
 25            android:name="com.example.knocomy.Highscores_Table"
-25-->D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:15:19-51
+25-->E:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:15:19-51
 26            android:theme="@style/Theme.AppCompat.NoActionBar" />
-26-->D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:16:13-63
+26-->E:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:16:13-63
 27        <activity
-27-->D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:17:9-18:65
+27-->E:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:17:9-18:65
 28            android:name="com.example.knocomy.LoginMenu"
-28-->D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:17:19-44
+28-->E:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:17:19-44
 29            android:theme="@style/Theme.AppCompat.NoActionBar" />
-29-->D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:18:13-63
+29-->E:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:18:13-63
 30        <activity
-30-->D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:19:9-21:66
+30-->E:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:19:9-21:66
 31            android:name="com.example.knocomy.Question_Page"
-31-->D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:20:13-42
+31-->E:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:20:13-42
 32            android:theme="@style/Theme.AppCompat.NoActionBar" />
-32-->D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:21:13-63
+32-->E:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:21:13-63
 33        <activity
-33-->D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:22:9-24:66
+33-->E:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:22:9-24:66
 34            android:name="com.example.knocomy.Konu_Bolumu"
-34-->D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:23:13-40
+34-->E:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:23:13-40
 35            android:theme="@style/Theme.AppCompat.NoActionBar" />
-35-->D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:24:13-63
+35-->E:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:24:13-63
 36        <activity
-36-->D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:25:9-27:66
+36-->E:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:25:9-27:66
 37            android:name="com.example.knocomy.register"
-37-->D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:26:13-37
+37-->E:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:26:13-37
 38            android:theme="@style/Theme.AppCompat.NoActionBar" />
-38-->D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:27:13-63
+38-->E:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:27:13-63
 39        <activity
-39-->D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:28:9-36:20
+39-->E:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:28:9-36:20
 40            android:name="com.example.knocomy.MainActivity"
-40-->D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:29:13-41
+40-->E:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:29:13-41
 41            android:theme="@style/Theme.AppCompat.NoActionBar" >
-41-->D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:30:13-63
+41-->E:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:30:13-63
 42            <intent-filter>
-42-->D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:31:13-35:29
+42-->E:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:31:13-35:29
 43                <action android:name="android.intent.action.MAIN" />
-43-->D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:32:17-69
-43-->D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:32:25-66
+43-->E:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:32:17-69
+43-->E:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:32:25-66
 44
 45                <category android:name="android.intent.category.LAUNCHER" />
-45-->D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:34:17-77
-45-->D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:34:27-74
+45-->E:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:34:17-77
+45-->E:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:34:27-74
 46            </intent-filter>
 47        </activity>
 48
 49        <meta-data
-49-->D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:38:9-40:57
+49-->E:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:38:9-40:57
 50            android:name="preloaded_fonts"
-50-->D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:39:13-43
+50-->E:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:39:13-43
 51            android:resource="@array/preloaded_fonts" />
-51-->D:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:40:13-54
+51-->E:\Mete\Software\projects\my projects\knocomy\app\src\main\AndroidManifest.xml:40:13-54
 52    </application>
 53
 54</manifest>
